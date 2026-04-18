@@ -1,18 +1,31 @@
-# Java Level 1 Tasks
+# Java Level 1 Tasks 🚀
 
-This repository contains two Java console applications:
+This repository contains two Java console applications built as part of my learning journey.
 
-## 🔹 Calculator
-- Performs basic operations (+, -, *, /, ^)
+## 🔹 Projects
+
+### 1. Calculator
+- Supports +, -, *, /, ^
 - Handles division by zero
-- Input validation included
+- User-friendly input
 
-## 🔹 Number Guessing Game
+### 2. Number Guessing Game
 - Random number between 1–100
 - Limited attempts
-- User feedback (Too High / Too Low)
+- Feedback system (Too High / Too Low)
 - Handles invalid input
 
-## ▶️ Run
-javac Calculator.java NumberGuessingGame.java  
+## 🛠️ Skills
+- Java Basics
+- OOP Concepts
+- Exception Handling
+
+## ▶️ How to Run
+
+Compile:
+javac Calculator/Calculator.java NumberGuessingGame/NumberGuessingGame.java
+
+Run:
 java Calculator
+or
+java NumberGuessingGame
